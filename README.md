@@ -1,2 +1,2 @@
-# WM_configs
-Some configurations for my WM and GUI
+# .configs
+This repository hosts some of my config files. 
