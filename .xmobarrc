@@ -93,5 +93,4 @@ Config {
 -- color15 = "#46d9ff"
 -- color16 = "#dfdfdf"
 
--- colorTrayer :: String
--- colorTrayer = "--tint 0x282c34"
+
